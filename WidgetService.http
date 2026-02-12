@@ -1,0 +1,6 @@
+@WidgetService_HostAddress = http://localhost:5174
+
+GET {{WidgetService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
